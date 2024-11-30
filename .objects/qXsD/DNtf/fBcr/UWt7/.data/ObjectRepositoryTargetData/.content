@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OzFXiXV-fEKyi62_F1fxWQ" Reference="M0YtPd_PQEGmyWWIm2Aj4A/UWt7QABYTEmSjVe2r3kkxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="23a46c9e-4936-4a06-b659-0255784eda54" DesignTimeRectangle="22, 306, 675, 19" DesignTimeScaleFactor="1" ElementType="ListItem" FullSelectorArgument="[string.Format(&quot;&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl role='list' /&gt;&lt;ctrl name='{0}' role='list item' /&gt;&quot;, in_AccountNumber)]" Guid="d4d01556-b389-43ac-ac2a-19b0e5e80a4c" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientAccounts' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e1abde8441dcb6899c5e22d1b022819b.png" xmlns="">0KeE4ZG8Zn0G4CGZ3ImytsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="921036" Name="in_AccountNumber" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

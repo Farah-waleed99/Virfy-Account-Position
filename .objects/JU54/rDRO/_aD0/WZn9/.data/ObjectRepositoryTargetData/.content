@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="leuPIJXRxUOI7c_e-8T8bQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/103652295" CVScreenId="351e04c1-e758-4f33-ae5f-71707ed2ccbc" CvElementArea="53, 439, 222, 36" CvType="InputBox" DesignTimeRectangle="53, 439, 222, 36" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='btn dropdown-toggle bs-placeholder btn-default' aaname='---' check:innerText='---' /&gt;" Guid="ecfb559f-7e5c-45a5-8639-a273786aa362" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="351e04c1-e758-4f33-ae5f-71707ed2ccbc" DesignTimeRectangle="54, 440, 220, 34" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='BUTTON' visibleinnertext='---*' /&gt;" Guid="8d9bc72c-edcc-42e1-ae03-7f564543e3c7" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="96a866fdfc18139b769e1a02348976f1.png" xmlns="">037YYZ5Rij0WiEma13ikAIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

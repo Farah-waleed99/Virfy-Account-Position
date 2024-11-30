@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-HoFoA3_kkS6g_dAanwVOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9b8eb1f9-8f93-47c9-8d4e-5b614879d460" CvElementArea="25, 209, 15, 15" CvType="CheckBox" DesignTimeRectangle="25, 209, 15, 15" DesignTimeScaleFactor="1" ElementType="CheckBox" Guid="65025ab4-2bc0-4718-ab23-0926d31bfc5e" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9b8eb1f9-8f93-47c9-8d4e-5b614879d460" CvElementArea="25, 209, 15, 15" CvTextArea="44, 211, 124, 12" CvTextArgument="Include inactive clients" CvType="CheckBox" DesignTimeRectangle="26, 208, 148, 19" ElementType="CheckBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='checkBox1' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='checkBox1' check:fulltext='Include inactive clients' /&gt;" Guid="9098b1cc-d6f3-4b91-91a3-aac3aa7d634b" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c908f496ab303c35981d43d888c15e6d.png" xmlns="">0Xe3jHtSgp0Sx94ILto64qg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Client Accounts",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "mOPt7cQdakyx798r-_HaFg",
+  "Reference": "M0YtPd_PQEGmyWWIm2Aj4A/mOPt7cQdakyx798r-_HaFg",
+  "ParentRef": "M0YtPd_PQEGmyWWIm2Aj4A/PHgdKI0KOUCY1RF_fQwBuw",
+  "Created": "2024-11-16T10:49:47.916741Z",
+  "Updated": "2024-11-16T10:49:47.916741Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

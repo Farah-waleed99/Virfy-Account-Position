@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Any Word Group",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mi4qydOTI06xxZKpuRBpNQ",
+  "Reference": "M0YtPd_PQEGmyWWIm2Aj4A/mi4qydOTI06xxZKpuRBpNQ",
+  "ParentRef": "M0YtPd_PQEGmyWWIm2Aj4A/vW91_-STPES-gLQqgLY2hg",
+  "Created": "2024-11-16T08:43:00.5708313Z",
+  "Updated": "2024-11-16T08:43:00.5708313Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

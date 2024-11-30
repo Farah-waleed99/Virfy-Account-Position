@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="178fS67500-nb3_Kf1OJuA" Reference="M0YtPd_PQEGmyWWIm2Aj4A/EeMCuMrdfUO4_FLd-T8X7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8b08e5fd-e123-40fd-9a2b-3df633d87659" DesignTimeRectangle="26, 163, 696, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='textBox1' /&gt;" Guid="14360abe-b604-4932-a60f-d57c7dd425ac" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' automationid='SearchingClient' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab070e80519d454ba37ef1f01c095f50.png" xmlns="">01huF9Vg4vUuIGINHrl5nKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
